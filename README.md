@@ -1,5 +1,5 @@
 # Arduino Temperature & Humidity Monitoring
-## Building an Temperature/Humidity using a DHT11 Sensor
+## Building an Temperature/Humidity Monitor using a DHT11 Sensor
 
 For this project I wanted to know I could know the current temperature of my room using arduino. For that purpose I found out about the `DHT11` Temperature and Humidity Sensor, which I could connect to an Arduino and send it all the information I needed. 
 <br>
