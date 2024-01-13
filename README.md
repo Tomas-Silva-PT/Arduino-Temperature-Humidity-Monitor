@@ -15,6 +15,7 @@ The reference used was: https://arduinogetstarted.com/tutorials/arduino-temperat
    1. [Material Needed](#21-material-needed)
         1. [Why do we need a I2C Module?](#211-why-do-we-need-a-i2c-module)
         2. [Why do we need a push button?](#212-why-do-we-need-a-push-button)
+        3. [Why do we need a resistor?](#213-why-do-we-need-a-resistor)
    2. [Schematic](#22-schematic)
 3. [Code](#3-code)
     1. [Library Dependencies](#31-library-dependencies)
